@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thakar</h1>
-<h3 align="center">QA Engineer | Automation Tester | Selenium | API Testing</h3>
+<h3 align="center">QA Engineer | Automation Test Engineer | Selenium | API Testing</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Automation+Tester;Selenium+Developer;API+Testing+Enthusiast&center=true&width=500&height=50">
@@ -13,10 +13,18 @@
 - Skilled in **Manual Testing and Automation Testing**
 - Automation using **Selenium + Java + TestNG**
 - API Testing using **Postman**
+- Exploring **AI-driven testing using MCP server**
 - Passionate about improving **software quality and automation frameworks**
 
 ---
+## 📂 Featured Projects
 
+🔹 Selenium Java Automation Framework (https://github.com/GauravThakar26/Automation-framework)
+- Page Obejct Model (POM)
+- TestNG Framework
+- Extent Reports integration
+- End-to-end test scenarios
+---
 ## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -30,21 +38,17 @@
 
 ## 🧪 Testing Expertise
 
+✔ Automation Testing 
+✔ Manual Testing
 ✔ Functional Testing  
 ✔ Regression Testing  
 ✔ Integration Testing  
-✔ API Testing    
-✔ Automation Testing  
-
----
-
-## 📂 Featured Projects
-
-🔹 Selenium Java Automation Framework  
+✔ API Testing
 
 ---
 
 ## 📫 Connect With Me
+
 
 - LinkedIn: https://www.linkedin.com/in/gaurav-thakar-6418991b7
 - Email: gauravthakar1997@outlook.com
