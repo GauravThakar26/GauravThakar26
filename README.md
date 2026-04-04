@@ -17,6 +17,18 @@
 - Passionate about improving **software quality and automation frameworks**
 
 ---
+🏆 Key Highlights
+
+✔ Built end-to-end Selenium automation framework
+
+✔ Implemented Page Object Model (POM) architecture
+
+✔ Integrated Extent Reports & Screenshot Capture
+
+✔ Designed data-driven testing frameworks
+
+✔ Reduced manual effort through automation
+---
 ## 📂 Featured Projects
 
 🔹 Selenium Java Automation Framework (https://github.com/GauravThakar26/Automation-framework)
